@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Khuram Design</string>
+    <string name="login_form_button">Log In</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="logo">logo</string>
+
+</resources>
